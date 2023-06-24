@@ -1,0 +1,143 @@
+{
+    "nav": [
+        {
+            "name": "About",
+            "href": "#about"
+        },
+        {
+            "name": "Skills",
+            "href": "#skills"
+        },
+        {
+            "name": "Experience",
+            "href": "#experience"
+        },
+        {
+            "name": "Education",
+            "href": "#education"
+        },
+        {
+            "name": "Projects",
+            "href": "#projects"
+        },
+        {
+            "name": "Contact",
+            "href": "#contact"
+        }
+    ],
+    "name": "Ishaan Gautam",
+    "desination": "Frontend Web Developer",
+    "socialLinks": {
+        "twitter": "twitter",
+        "facebook": "facebook",
+        "instagram": "instagram",
+        "github": "github"
+    },
+    "bio": "<p>Hello! I’m Ishaan Gautam. I am passionate about Frontend Web Development with 1+ years of focused experience in ReactJs/NextJs applications with expertise in reviewing client requirement prioritizes requirements and baseline project plan. I am a skilled <strong>Frontend web developer</strong> and master of popular JavaScript frameworks ReactJs. I am a quick learner and a team worker that gets the job done.</p><p></p>",
+    "dob": "1994-11-28",
+    "email": "ishaangautam959553@gmail.com",
+    "skype": "live:ishaangautam9595",
+    "mobile": "+91 86074-29792",
+    "address": "Mahesh Nagar, Ambala Cantt, Haryana, India.",
+    "skills": [
+        {
+            "name": "React Js",
+            "level": "Master",
+            "precentage": 90
+        },
+        {
+            "name": "Next Js",
+            "level": "Master",
+            "precentage": 90
+        },
+        {
+            "name": "Node Js",
+            "level": "Master",
+            "precentage": 70
+        },
+        {
+            "name": "UI/UX",
+            "level": "Master",
+            "precentage": 70
+        },
+        {
+            "name": "Rest API's",
+            "level": "Master",
+            "precentage": 90
+        },
+        {
+            "name": "GitFlow",
+            "level": "Master",
+            "precentage": 90
+        },
+        {
+            "name": "JavaScript",
+            "level": "Master",
+            "precentage": 80
+        },
+        {
+            "name": "HMTL",
+            "level": "Master",
+            "precentage": 69
+        },
+        {
+            "name": "CSS",
+            "level": "Master",
+            "precentage": 69
+        }
+    ],
+    "workExperience": [
+        {
+            "desination": "Software Developer",
+            "company": "Tech Prastish Software Solutions Pvt. Ltd.",
+            "from": "May, 2022",
+            "to": "Present",
+            "jobDescription": "<ul> <li>Collaborate with web design and development team to create a new website for a tech startup, assisting with coding.</li><li>Delegate objectives to team of coders to facilitate time frame and meet the common vision of the project.</li> <li>Assist design team with coding to create a user-friendly interface that is compatible across every major operating system.</li> <li>Manage user feedback and perform system checkups to ensure the functionality of the website.</li> <li>Oversee team of one junior coder and two interns.</li> </ul>"
+        },
+        {
+            "desination": "Web Development Intern",
+            "company": "AD Infotech Solutions",
+            "from": "October, 2021",
+            "to": "April, 2022",
+            "jobDescription": "<ul> <li>Collaborate with web design and development team to create a new website for a tech startup, assisting with coding.</li><li>Delegate objectives to team of coders to facilitate time frame and meet the common vision of the project.</li> <li>Assist design team with coding to create a user-friendly interface that is compatible across every major operating system.</li> <li>Manage user feedback and perform system checkups to ensure the functionality of the website.</li> <li>Oversee team of one junior coder and two interns.</li> </ul>"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Computer Science",
+            "university": "Chandigarh Group of Colleges",
+            "from": "June, 2018",
+            "to": "June, 2022",
+            "description": ""
+        },
+        {
+            "degree": "Senior Secondary Education",
+            "university": "CBSE",
+            "from": "March, 2017",
+            "to": "March, 2018",
+            "description": ""
+        },
+        {
+            "degree": "Matriculation Education",
+            "university": "CBSE",
+            "from": "March, 2015",
+            "to": "March, 2016",
+            "description": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Online Chat Applications",
+            "description": "It's an online real-time chat application that has many features like online/offline status functionality, message read/unread functionality. User can send photos, videos and documents as well. User can create groups too.",
+            "skills": "ReactJs, Socket-io, HTML, CSS",
+            "responsibilities":"<ul> <li>To Develop/Design as per requirement.</li> <li>Handle UI and frontend of this project.</li> <li>Making application real-time.</li> <li>Bug fixes.</li> </ul>"
+        },
+        {
+            "name": "ISOP Application",
+            "description": "It's an application in which user can access resources for ISOP certification. It has many features like 2 Factor authentication, multi-role authentication, Admin Panel.",
+            "skills": "ReactJs, Typescript, HTML, CSS",
+            "responsibilities":"<ul> <li>To Develop/Design using REST API’S.</li> <li>Develop Admin Panel.</li> <li>Knowledge sharing with the team and new members.</li> <li>Bug fixes.</li> </ul>"
+        }
+    ]
+    
+}

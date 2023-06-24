@@ -1,1 +1,1 @@
-# Ishaangautam9595.github.io
+# IshaanGautam9595.github.io

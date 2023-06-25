@@ -12,7 +12,6 @@ export default class Header extends Component {
                 </a>
             </li>
         );
-
         return (
             <>
                 <header className="d-print-none">

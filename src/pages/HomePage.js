@@ -14,8 +14,8 @@ export default function HomePage() {
             <About/>
             <Skills/>
             <Experience/>
-            <Education/>
             <Projects/>
+            <Education/>
             <Contact/>
         </>
     )

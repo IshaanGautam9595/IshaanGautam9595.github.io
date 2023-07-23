@@ -18,7 +18,6 @@ export default class Projects extends Component {
                                                     <h3>{value.name}</h3>
                                                     <p className="text-muted"><b>Description</b>: {value.description}</p>
                                                     <p className="text-muted"><b>Technology & Tools</b>: {value.skills}</p>
-                                                    <p className="text-muted"><b>Responsibilities</b>:</p>
                                                     <div dangerouslySetInnerHTML={{__html: value.responsibilities}}></div>
                                                 </div>
                                             </div>

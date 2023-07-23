@@ -92,14 +92,14 @@
             "company": "Tech Prastish Software Solutions Pvt. Ltd.",
             "from": "May, 2022",
             "to": "Present",
-            "jobDescription": "<ul> <li>Collaborate with web design and development team to create a new website for a tech startup, assisting with coding.</li><li>Delegate objectives to team of coders to facilitate time frame and meet the common vision of the project.</li> <li>Assist design team with coding to create a user-friendly interface that is compatible across every major operating system.</li> <li>Manage user feedback and perform system checkups to ensure the functionality of the website.</li> <li>Oversee team of one junior coder and two interns.</li> </ul>"
+            "jobDescription": "<ul> <li>I have amassed valuable experience in creating robust and dynamic web applications. With a deep understanding of React's ecosystem and its associated libraries, I have successfully designed and implemented user-friendly and responsive interfaces that have enhanced the user experience</li><li>Learned integrating RESTful APIs and third-party services that has enabled seamless data exchange and improved application functionality.</li> <li>Collaborated effectively within cross-functional teams, I have demonstrated strong problem-solving abilities, ensuring smooth project execution and delivery.</li> <li>Manage user feedback and perform system checkups to ensure the functionality of the website.</li> <li>Manage user feedback and perform system checkups to ensure the functionality of the website.</li> </ul>"
         },
         {
             "desination": "Web Development Intern",
             "company": "AD Infotech Solutions",
             "from": "October, 2021",
             "to": "April, 2022",
-            "jobDescription": "<ul> <li>Collaborate with web design and development team to create a new website for a tech startup, assisting with coding.</li><li>Delegate objectives to team of coders to facilitate time frame and meet the common vision of the project.</li> <li>Assist design team with coding to create a user-friendly interface that is compatible across every major operating system.</li> <li>Manage user feedback and perform system checkups to ensure the functionality of the website.</li> <li>Oversee team of one junior coder and two interns.</li> </ul>"
+            "jobDescription": "<ul> <li>During my internship as a React developer, I gained valuable hands-on experience working on web application development projects.</li><li>Collaborating with a team of experienced developers, I actively contributed to building and enhancing various React components and features.</li> <li>Through this internship, I honed my skills in front-end development, utilizing React's component-based architecture to create responsive and user-friendly interfaces. I also gained proficiency in implementing state management techniques, such as Redux, to effectively manage and share application data.</li> <li> Additionally, I had the opportunity to integrate APIs and external libraries, further expanding my knowledge of React's ecosystem.</li> <li>My time as a React developer intern not only solidified my technical capabilities but also improved my ability to work collaboratively in a fast-paced development environment.</li> </ul>"
         }
     ],
     "education": [
@@ -128,15 +128,13 @@
     "projects": [
         {
             "name": "Online Chat Applications",
-            "description": "It's an online real-time chat application that has many features like online/offline status functionality, message read/unread functionality. User can send photos, videos and documents as well. User can create groups too.",
-            "skills": "ReactJs, Socket-io, HTML, CSS",
-            "responsibilities":"<ul> <li>To Develop/Design as per requirement.</li> <li>Handle UI and frontend of this project.</li> <li>Making application real-time.</li> <li>Bug fixes.</li> </ul>"
+            "description": "The application is an online real-time chat platform with a multitude of features. It includes functionalities for online and offline status, allowing users to see when others are available to chat. Additionally, the app provides message read/unread indicators, letting users know if their messages have been viewed by recipients. Users are also able to send various types of media, such as photos, videos, and documents, enhancing communication and collaboration. Furthermore, the application allows users to create groups, enabling them to gather like-minded individuals or collaborate with specific teams for more efficient communication and sharing of information. Overall, the platform offers a comprehensive and seamless chat experience with its range of features.",
+            "skills": "ReactJs, Socket-io, HTML, CSS"
         },
         {
             "name": "ISOP Application",
-            "description": "It's an application in which user can access resources for ISOP certification. It has many features like 2 Factor authentication, multi-role authentication, Admin Panel.",
-            "skills": "ReactJs, Typescript, HTML, CSS",
-            "responsibilities":"<ul> <li>To Develop/Design using REST API’S.</li> <li>Develop Admin Panel.</li> <li>Knowledge sharing with the team and new members.</li> <li>Bug fixes.</li> </ul>"
+            "description": "The application is designed to facilitate access to resources for ISOP (International Standard for Organization and Processes) certification, providing users with a comprehensive platform to aid them in their certification journey. One of the key features of the application is its robust security measures, offering a high level of protection for user accounts and data. This is achieved through the implementation of 2 Factor Authentication, which adds an extra layer of security by requiring users to provide two different forms of identification before gaining access to their accounts. Furthermore, the application incorporates multi-role authentication, which allows users with different levels of authorization to access specific resources and functionalities within the platform. This ensures that only authorized individuals can access sensitive information or perform certain actions, safeguarding the integrity of the certification process. The application also boasts an efficient and user-friendly Admin Panel, empowering administrators with the necessary tools to manage users, resources, and access permissions effectively. Through the Admin Panel, administrators can monitor user activity, grant or revoke access privileges, and oversee the overall functioning of the platform. Overall, the ISOP certification application is a comprehensive and secure solution that empowers users to navigate their certification process with confidence, leveraging advanced authentication mechanisms and an intuitive Admin Panel to streamline their experience and ensure compliance with ISOP standards.",
+            "skills": "ReactJs, Typescript, HTML, CSS"
         }
     ]
     

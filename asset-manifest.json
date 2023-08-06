@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4c60595d.css",
-    "main.js": "/static/js/main.6c104c97.js",
+    "main.js": "/static/js/main.60bacbc5.js",
     "static/js/787.e6082d8f.chunk.js": "/static/js/787.e6082d8f.chunk.js",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.ca408b63c26d83dbd1e4.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.bc671f97630e1af81f65.svg",
@@ -16,18 +16,18 @@
     "static/media/fa-brands-400.woff": "/static/media/fa-brands-400.dc2cbadd690e1d4b2c9c.woff",
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.3ceb50e7bcafb577367c.woff2",
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.c967a94cfbe2b06627ff.woff2",
-    "static/media/Ishaan Gautam resume.pdf": "/static/media/Ishaan Gautam resume.eb745752746e91f5eb74.pdf",
+    "static/media/Ishaan Gautam resume.pdf": "/static/media/Ishaan Gautam resume.1beeb7750549e6129d30.pdf",
     "static/media/fa-regular-400.eot": "/static/media/fa-regular-400.08f9891a6f44d9546678.eot",
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.1495f578452eb676f730.ttf",
     "static/media/fa-regular-400.woff": "/static/media/fa-regular-400.1069ea55beaa01060302.woff",
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.1008b5226941c24f4468.woff2",
     "index.html": "/index.html",
     "main.4c60595d.css.map": "/static/css/main.4c60595d.css.map",
-    "main.6c104c97.js.map": "/static/js/main.6c104c97.js.map",
+    "main.60bacbc5.js.map": "/static/js/main.60bacbc5.js.map",
     "787.e6082d8f.chunk.js.map": "/static/js/787.e6082d8f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c60595d.css",
-    "static/js/main.6c104c97.js"
+    "static/js/main.60bacbc5.js"
   ]
 }
